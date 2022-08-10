@@ -1,1 +1,1 @@
-# standard-solution
+# Go Standard Library Solutions course
